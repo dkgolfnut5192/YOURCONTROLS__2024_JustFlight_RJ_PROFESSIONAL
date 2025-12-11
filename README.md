@@ -16,7 +16,7 @@ YOURCONTROLS_2024_JustFlight_RJ_PROFESSIONAL
     - EFB - GND PWR, GND STAIR, and GND AIR buttons do not work, you will have to push on both pilots EFB's 
     - ENGINE start Switch works, but you need to hold in Start position for a second or two for it to synch to second pilot
     - LVLCHG and THRUST Lights May not be synching properly. Ihave seen mixed results on this
-    - MAN RATE btn is finicky. You may have to have second pilot disconnect, then seet the MAN RATE btn to match then join the session again to keep synch. 
+    - MAN RATE btn is finicky. You may have to have second pilot disconnect, then set the MAN RATE btn to match then join the session again to keep synch. 
      
 # FIXES
    - DEC 11,2025
