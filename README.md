@@ -10,7 +10,7 @@ YOURCONTROLS_2024_JustFlight_RJ_PROFESSIONAL
    - WEATHER needs to match. Please ensure both airplanes are showing the correct Altitude that matches based onthe weather before Joining the session.
    - Please Disable KNOB ACCELERATTION in the RJ EFB or the altitude and other knobs will get way out of synch.
    - Please ensure all items on the EFB CONFIGURATION are selected to match on both EFB's.
-   - Please ensure weaight and balance, fuel, etc are matched manually as someitems on EFB will not synch
+   - Please ensure weight and balance, fuel, etc are matched manually as someitems on EFB will not synch
  # KNOWN ISSUES
    - 11/28/2024
     - EFB - GND PWR, GND STAIR, and GND AIR buttons do not work, you will have to push on both pilots EFB's 
